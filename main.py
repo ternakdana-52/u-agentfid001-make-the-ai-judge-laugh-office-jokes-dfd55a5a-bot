@@ -8,7 +8,7 @@ Deterministic, no network, no randomness.
 import os
 import sys
 
-JOKE = "I replied-all to the entire company by accident, and HR replied-all back to tell me never to reply-all again."
+JOKE = "My manager scheduled a meeting to discuss why we have too many meetings, then scheduled a follow-up to discuss the first meeting."
 
 
 def check_line(line: str) -> None:
